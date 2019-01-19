@@ -11,7 +11,7 @@
 [Go here](https://forum.xda-developers.com/redmi-note-5/development/firmware-xiaomi-redmi-note-5-5-plus-t3759683)
 
 ### XDA Main Thread:
-[Go here](https://forum.xda-developers.com/android/software-hacking/devices-yshalsager-t3741446)
+[Go here](https://forum.xda-developers.com/android/software-hacking/devices-xiaomi-firmware-updater-t3741446)
 
 #### by [Xiaomi Firmware Updater](https://github.com/XiaomiFirmwareUpdater)
 #### Developer: [yshalsager](https://github.com/yshalsager)
